@@ -43,6 +43,3 @@ This project demonstrates **the implementation of the Fibonacci sequence** both 
 
 ```bash
 nvcc fibonacci.cu -o fibonacci
-
-
-##
